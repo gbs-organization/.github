@@ -1,3 +1,3 @@
 ## Hammaga salom 👋
 
-Dasturlashni misollar orqali o'rganing.
+GBS - general backend systax.
