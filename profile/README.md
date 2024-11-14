@@ -1,3 +1,3 @@
 ## Hammaga salom 👋
 
-GBS - general backend systax.
+GBS - general backend syntax.
